@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rahanov1/barriers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahanov1/barriers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# External barriers
+External barriers encompass a wide set of factors, ranging from the cost of implementation
+(and other economic factors) to the lack of support and guidance, from hindrances linked to
+the institutional framework and the verification/registration process to the lack of market
+recognition, and so on.
+Most of the evidence gathered within the review of existing literature on these issues
+regards the relevance of economic factors, scarce customer awareness/interest and lack of
+recognition by public institutions as factors hindering the will of organizations to adopt an
+EMS and in particular a formal EMS such as ISO 14001 or EMAS .
+The cost of implementation, for instance, seems to be a relevant barrier, especially for SMEs
+where financial resources are more limited (Hillary 1999, Biondi et al. 2000).
+SMEs certainly have to struggle against their lack of resources and fill a cultural gap as
+regards environmental matters. At a first glance, the main problem for SMEs seems to be
+that of finding money to invest in the improvement of environmental performance.
+Therefore, costs connected with the implementation of an EMS and with the adoption of a
+voluntary scheme could represent a first kind of barrier for SMEs.
+The widespread agreement over the importance of such a barrier is confirmed by many
+studies, like a survey on the uptake of EMAS and ISO 14001 (ISO, 2005) showing how the
+lack of financial resources (33%) and the costs of certification (23%) are among main barriers
+for the implementation of an EMS.
+In detail, we can distinguish the financial costs basically in three categories: costs relating to
+the necessary technical measures for guaranteeing the improvement of environmental
+performance, costs relating to the EMS implementation and costs to be sustained for
+obtaining a third party certification.
+As to the first cost category, we refer, only in the case of ISO 14001 and EMAS, to the costs
+that many participating enterprises have to face in order to comply with the environmental
+regulations that is a requirement of both schemes. Moreover, in the adoption of an EMS,
+most of SMEs’ financial efforts connected with “technical measures” regard the costs of
+equipment and the cost relating to plants management, control and maintenance. The
+commitment to continuous improvement implies that plant investments should not be over
+with the EMAS registration or the ISO 14001 certification, but instead means that
+environmental improvement must, from that moment on, be considered in all the decisions
+regarding investment and maintenance scheduling.
+Costs sustained by the SMEs in structuring their EMS represents another significant
+financial effort. For instance Delmas (2002) states that “the annual cost of maintaining ISO 
+14001 is a more important constraint than are design and registration costs”; this might be
+an explanation of the “crisis” of certifications in some countries characterizing recent years,
+as many organizations drop EMSs as costs overweight benefits. These costs are often due to
+the lack of expertise and trained personnel capable of performing the necessary
+measurement and analyses, which implies the need to rely on external technicians and
+consultancies. Cost of management time is another relevant cost whereas costs connected
+with personnel information and training as well as with environmental auditing (reported
+as specific items) were not considered relevant. It is important to highlight that the EMS
+“degree of maturity” is a relevant variable which most influences the steps which the
+enterprise will have to take, and consequently the additional costs. A production site where
+a management system has already been structured and a systematic auditing activity is
+regularly performed (but this rarely is the case of an SME) will obviously have considerably
+lower costs compared to a site which has still to take some of the organisational-managerial
+steps required by EMAS or ISO.
+Finally, we consider the financial costs strictly connected with the adhesion to one of the
+formal voluntary standards such as ISO 14001 and EMAS. 
+The costs relating to EMAS registration, for example, are generally low, although this
+depends on each national Competent Body. In some countries the cost depends on site
+dimension and turnover, representing a positive attempt to knock down a financial barrier
+for SMEs. For example, in Italy the cost varies from 50 €, for small firms, to 1500€ , for large
+firms.
+On the one hand, to give an idea of the financial resources required, we can mention the
+“EMAS toolkit” (European Commission, 2000), which provides figures with the average
+expenditures for different size-categories of organisations:
+€ 10,000 for very small companies (< 10 employees)
+€ 20,000 for small companies (< 50 employees)
+€ 35,000 for medium companies (50 <250 employees)
+€ 50,000 for large companies (> 250 employees)
+On the other hand, studies on EMS costs (Hamschmidt & Dyllick 2001, Milieu Ltd & Risk
+and Policy Analysis Ltd, 2009) suggest that the above mentioned figures might be
+underestimated. The discrepancies in the outcome of different investigations are due to
+many factors, not least the fact that most organizations do not have a system for the
+accounting of environmental costs. The table below collected evidence from previous
+studies on the costs of EMAS implementation in different countries. 
